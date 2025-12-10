@@ -1,0 +1,174 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.page-header li a {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.page-header li a:hover,
+.page-header li a:focus,
+.page-header li a:focus-visible {
+  color: #404bbf;
+}
+
+.page-header .link-st:active,
+.page-header .link-st:focus,
+.page-header .link-st:focus-visible {
+  text-decoration: underline;
+  color: #404bbf;
+}
+
+.page-header .contacts {
+  color: #434455;
+  font-size: 16px;
+  font-weight: inherit;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  font-style: normal;
+}
+
+.page-header .contacts:hover,
+.page-header .contacts:focus,
+.page-header .contacts:focus-visible {
+  color: #404bbf;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+.logo {
+  font-family: Raleway, sans-serif;
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+
+.logo span {
+  color: #4d5ae5;
+}
+
+.page-title {
+  background-color: #2e2f42;
+  color: #ffffff;
+}
+
+.page-title .title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.page-title .button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.title-text .section-title {
+  font-size: 24px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+}
+
+.title-text h3 {
+  font-size: 20px;
+  color: #2e2f42;
+  font-weight: 500;
+}
+
+.page-title .button:hover,
+.page-title .button:focus,
+.page-title .button:focus-visible {
+  background-color: #404bbf;
+}
+
+.main-page {
+  background-color: #f4f4fd;
+}
+
+.main-page .subtitle {
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.team-card {
+  background-color: #ffffff;
+}
+
+.team-list li {
+  background: #fff;
+}
+
+.main-page .item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.main-page .indent {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+
+.portfolio-section h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.portfolio-section h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-section p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.page-footer {
+  background-color: #2e2f42;
+  color: #ffffff;
+}
+
+.page-footer .logo {
+  color: #f4f4fd;
+}
